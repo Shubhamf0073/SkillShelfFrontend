@@ -121,7 +121,9 @@ export default function Landing() {
         </section>
         <section id="about" className="bg-transparent p-6 rounded shadow mb-8">
           <h2 className="text-2xl font-bold mb-4">About Us</h2>
-          <p>SkillShelf is a course recommender system designed to help you find the best courses based on your interests and previous studies. Our mission is to make learning accessible and personalized for everyone.</p>
+          <p className="mb-4">
+            With an ever-growing number of online courses available, choosing the right one can feel like searching for a needle in a haystack. SkillShelf simplifies the process by aggregating the best options and presenting them in an easy-to-navigate format. We've carefully selected and analyzed each course to ensure you get the best value. Whether you're looking to master tech, business, arts, or sciences, SkillShelf offers a wide variety of top-rated courses tailored to your learning goals. Dive into the world of learning with confidence, and stay ahead of the curve—start exploring now and take the next step toward mastering a new skill!
+          </p>
         </section>
         <section id="contact" className="bg-transparent p-6 rounded shadow">
           <h2 className="text-2xl font-bold mb-4">Contact</h2>
